@@ -121,3 +121,27 @@
 #block-5-text {
     padding: 20px;
 }
+
+
+
+
+
+#block-6 {
+    background-size: cover;
+    background-color: #03BF00;
+}
+
+#block-6 h1 {
+    text-align: left;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#block-6-message {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    position: relative;
+}
+
+#block-6-text {
+    padding: 20px;
+}
