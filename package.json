@@ -1,0 +1,25 @@
+{
+  "name": "splash",
+  "version": "1.0.0",
+  "description": "splash page",
+  "main": "server.js",
+  "dependencies": {
+    "finalhandler": "^0.5.0",
+    "serve-static": "^1.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanechternacht/splash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanechternacht/splash/issues"
+  },
+  "homepage": "https://github.com/ryanechternacht/splash#readme"
+}

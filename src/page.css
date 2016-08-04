@@ -1,0 +1,123 @@
+#block-1 {
+    background: url(./students.jpg) no-repeat center center;
+    background-size: cover;
+    height: 600px;
+}
+
+#block-1 h1, #block-1 h2 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#block-1-message {
+    padding-top: 5%;
+    padding-bottom: 20%;
+    position: relative;
+}
+
+#block-1-text {
+    background-color: #211711;
+    padding: 20px;
+}
+
+#block-1 h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+
+
+#block-2 {
+    background-size: cover;
+    background-color: #00026E;
+}
+
+#block-2 h1 {
+    text-align: left;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#block-2-message {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    position: relative;
+}
+
+#block-2-text {
+    padding: 20px;
+}
+
+
+
+
+#block-3 {
+    background-size: cover;
+    background-color: #2900B2;
+}
+
+#block-3 h1 {
+    text-align: left;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#block-3-message {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    position: relative;
+}
+
+#block-3-text {
+    padding: 20px;
+}
+
+
+
+
+#block-4 {
+    background-size: cover;
+    background-color: #00026E;
+}
+
+#block-4 h1 {
+    text-align: left;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#block-4-message {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    position: relative;
+}
+
+#block-4-text {
+    padding: 20px;
+}
+
+
+
+
+#block-5 {
+    background-size: cover;
+    background-color: #2900B2;
+}
+
+#block-5 h1 {
+    text-align: left;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#block-5-message {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    position: relative;
+}
+
+#block-5-text {
+    padding: 20px;
+}
